@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @Nisqlna  
+# 👋 Hi, I’m @Nisqlna also known as Nisrina
 
 Welcome to my Portfolio Repository!  
 This repository is a collection of my projects, skills, and experience in data analysis, visualization, and storytelling. I’m passionate about finding meaningful insights from data and creating impactful visualizations to communicate them effectively.  
